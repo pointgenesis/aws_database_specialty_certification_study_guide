@@ -1,4 +1,4 @@
-# Amazon RDS and Aurora
+# Amazon Keyspaces for Apache Cassandra
 
 ___
 

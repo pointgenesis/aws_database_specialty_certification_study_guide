@@ -1,4 +1,4 @@
-# Amazon RDS and Aurora
+# AWS Database Comparison
 
 ___
 

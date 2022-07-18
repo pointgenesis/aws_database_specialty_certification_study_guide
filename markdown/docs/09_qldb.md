@@ -1,4 +1,4 @@
-# Amazon RDS and Aurora
+# Amazon QLDB
 
 ___
 
